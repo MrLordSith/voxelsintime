@@ -1,6 +1,6 @@
 release-date:0
 compile-date:0
-url:https://github.com/MrLordSith/voxelsintime/raw/refs/heads/main/Beta%201.4/vitbeta-v1.4-pre1-3.zip
+url:https://github.com/MrLordSith/voxelsintime/raw/refs/heads/main/Beta%201.4/vitbeta-v1.4-pre1-4.zip
 launch-method:indev
 launch-method-link:
 proxy-args:-Dstand-alone=true -Dhttp.proxyHost=betacraft.uk -Dhttp.proxyPort=11705
